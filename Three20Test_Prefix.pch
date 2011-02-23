@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'Three20Test' target in the 'Three20Test' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif
